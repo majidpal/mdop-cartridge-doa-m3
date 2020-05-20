@@ -1,0 +1,3 @@
+https://github.com/majidpal/spring-petclinic.git
+https://github.com/majidpal/mdop-cartridge-java-regression-tests.git
+https://github.com/majidpal/mdop-cartridge-java-environment-template.git
